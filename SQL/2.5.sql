@@ -1,0 +1,1 @@
+DELETE from tabela_evento WHERE evento = 'Evento B';

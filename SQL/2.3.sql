@@ -1,0 +1,1 @@
+insert into tabela_evento(id, evento, pessoa_id) values(5, 'Evento E', 5)

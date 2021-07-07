@@ -1,0 +1,1 @@
+select * from tabela_pessoa where nome like'%Doe%'

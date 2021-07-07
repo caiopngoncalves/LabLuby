@@ -1,0 +1,1 @@
+alter table tabela_telefone add unique(telefone);
